@@ -1,1 +1,2 @@
-# Cryptography-course
+## О проекте
+Интерактивный курс обучения, написанный на HTML + CSS + JavaScript + PHP с использованием векторной графики. Пройти его можно [здесь](https://course-serv23.rhcloud.com/).
