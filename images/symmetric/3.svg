@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="941"
+   height="662"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="3.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 331 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="941 : 331 : 1"
+       inkscape:persp3d-origin="470.5 : 220.66667 : 1"
+       id="perspective3669" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="376.0379"
+     inkscape:cy="424.60673"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="710"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-390.36218)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="211.25195"
+       y="445.85355"
+       id="text3022"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3024"
+         x="211.25195"
+         y="445.85355"
+         style="font-size:24px">Виды симметричных алгоритмов шифрования</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="48.57143"
+       y="114.85714"
+       id="text3029"
+       sodipodi:linespacing="125%"
+       transform="translate(0,390.36218)"><tspan
+         sodipodi:role="line"
+         id="tspan3031"
+         x="48.57143"
+         y="114.85714" /></text>
+    <g
+       id="g4363"
+       transform="translate(73.539105,0)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4304"
+         y="556.34583"
+         x="104.20815"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0003ff;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+         xml:space="preserve"><tspan
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0003ff;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+           y="556.34583"
+           x="104.20815"
+           id="tspan4306"
+           sodipodi:role="line">Блочные</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4329"
+         y="590.85547"
+         x="106.49136"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030045;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+         xml:space="preserve"><tspan
+           y="590.85547"
+           x="106.49136"
+           id="tspan4331"
+           sodipodi:role="line"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">AES,</tspan><tspan
+           id="tspan4333"
+           y="615.85547"
+           x="106.49136"
+           sodipodi:role="line"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">3DES,</tspan><tspan
+           id="tspan4335"
+           y="640.85547"
+           x="106.49136"
+           sodipodi:role="line"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">RC2,</tspan><tspan
+           id="tspan4337"
+           y="665.85547"
+           x="106.49136"
+           sodipodi:role="line"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">RC5,</tspan><tspan
+           id="tspan4339"
+           y="690.85547"
+           x="106.49136"
+           sodipodi:role="line"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Blowfish,</tspan><tspan
+           id="tspan4343"
+           y="715.85547"
+           x="106.49136"
+           sodipodi:role="line"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Twofish,</tspan><tspan
+           id="tspan4347"
+           y="740.85547"
+           x="106.49136"
+           sodipodi:role="line"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">IDEA,</tspan><tspan
+           id="tspan4349"
+           y="765.85547"
+           x="106.49136"
+           sodipodi:role="line"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">3-WAY,</tspan><tspan
+           y="790.85547"
+           x="106.49136"
+           sodipodi:role="line"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan3008">CAST-256,</tspan><tspan
+           id="tspan4351"
+           y="815.85547"
+           x="106.49136"
+           sodipodi:role="line"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Kuznechik и др.</tspan></text>
+    </g>
+    <g
+       id="g4377"
+       transform="translate(-90.509729,0)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4304-4"
+         y="556.34583"
+         x="709.35846"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+         xml:space="preserve"><tspan
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+           y="556.34583"
+           x="709.35846"
+           id="tspan4306-9"
+           sodipodi:role="line">Потоковые</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4353"
+         y="590.85547"
+         x="711.54596"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#930004;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+         xml:space="preserve"><tspan
+           y="590.85547"
+           x="711.54596"
+           id="tspan4355"
+           sodipodi:role="line"
+           style="-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:20px">RC4,</tspan><tspan
+           id="tspan4357"
+           y="618.35547"
+           x="711.54596"
+           sodipodi:role="line"
+           style="-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:20px">SEAL,</tspan><tspan
+           id="tspan4359"
+           y="645.85547"
+           x="711.54596"
+           sodipodi:role="line"
+           style="-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:20px">WAKE,</tspan><tspan
+           id="tspan4361"
+           y="673.35547"
+           x="711.54596"
+           sodipodi:role="line"
+           style="-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:20px">A5 и др.</tspan></text>
+    </g>
+  </g>
+</svg>

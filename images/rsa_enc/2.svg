@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="941"
+   height="662"
+   id="svg2997"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="2.svg">
+  <defs
+     id="defs2999">
+    <linearGradient
+       y2="737.01562"
+       x2="470.00089"
+       y1="737.01562"
+       x1="175.71875"
+       gradientTransform="matrix(0.471308,0,0,0.471308,118.8781,123.5182)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient13633"
+       xlink:href="#linearGradient12001"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient12001">
+      <stop
+         id="stop12003"
+         offset="0"
+         style="stop-color:#1b4a78;stop-opacity:1;" />
+      <stop
+         id="stop12005"
+         offset="1"
+         style="stop-color:#5dacd1;stop-opacity:1;" />
+    </linearGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.177184,-1.31839e-15,495.9268)"
+       r="147.14285"
+       fy="602.7193"
+       fx="328.57144"
+       cy="602.7193"
+       cx="328.57144"
+       id="radialGradient13651"
+       xlink:href="#linearGradient12828"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient12828">
+      <stop
+         style="stop-color:#484849;stop-opacity:1;"
+         offset="0"
+         id="stop12830" />
+      <stop
+         id="stop12862"
+         offset="0"
+         style="stop-color:#434344;stop-opacity:1;" />
+      <stop
+         style="stop-color:#8f8f90;stop-opacity:0.0000000;"
+         offset="1.0000000"
+         id="stop12832" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12828-2">
+      <stop
+         style="stop-color:#484849;stop-opacity:1;"
+         offset="0"
+         id="stop12830-7" />
+      <stop
+         id="stop12862-8"
+         offset="0"
+         style="stop-color:#434344;stop-opacity:1;" />
+      <stop
+         style="stop-color:#8f8f90;stop-opacity:0.0000000;"
+         offset="1.0000000"
+         id="stop12832-1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12001-1">
+      <stop
+         id="stop12003-5"
+         offset="0"
+         style="stop-color:#1b4a78;stop-opacity:1;" />
+      <stop
+         id="stop12005-1"
+         offset="1"
+         style="stop-color:#5dacd1;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12828-0">
+      <stop
+         style="stop-color:#484849;stop-opacity:1;"
+         offset="0"
+         id="stop12830-4" />
+      <stop
+         id="stop12862-82"
+         offset="0"
+         style="stop-color:#434344;stop-opacity:1;" />
+      <stop
+         style="stop-color:#8f8f90;stop-opacity:0.0000000;"
+         offset="1.0000000"
+         id="stop12832-9" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12001-8">
+      <stop
+         id="stop12003-9"
+         offset="0"
+         style="stop-color:#1b4a78;stop-opacity:1;" />
+      <stop
+         id="stop12005-3"
+         offset="1"
+         style="stop-color:#5dacd1;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12828-03">
+      <stop
+         style="stop-color:#484849;stop-opacity:1;"
+         offset="0"
+         id="stop12830-3" />
+      <stop
+         id="stop12862-5"
+         offset="0"
+         style="stop-color:#434344;stop-opacity:1;" />
+      <stop
+         style="stop-color:#8f8f90;stop-opacity:0.0000000;"
+         offset="1.0000000"
+         id="stop12832-8" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12001-6">
+      <stop
+         id="stop12003-8"
+         offset="0"
+         style="stop-color:#1b4a78;stop-opacity:1;" />
+      <stop
+         id="stop12005-4"
+         offset="1"
+         style="stop-color:#5dacd1;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12828-8">
+      <stop
+         style="stop-color:#484849;stop-opacity:1;"
+         offset="0"
+         id="stop12830-9" />
+      <stop
+         id="stop12862-2"
+         offset="0"
+         style="stop-color:#434344;stop-opacity:1;" />
+      <stop
+         style="stop-color:#8f8f90;stop-opacity:0.0000000;"
+         offset="1.0000000"
+         id="stop12832-0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12001-9">
+      <stop
+         id="stop12003-59"
+         offset="0"
+         style="stop-color:#1b4a78;stop-opacity:1;" />
+      <stop
+         id="stop12005-0"
+         offset="1"
+         style="stop-color:#5dacd1;stop-opacity:1;" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath108">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 110.871,634.697 3.794,0 0,-8.19 -3.794,0 0,8.19 z"
+         id="path110" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath124">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 113.21,631.345 3.794,0 0,-8.19 -3.794,0 0,8.19 z"
+         id="path126" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath140">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 110.871,636.163 6.724,0 0,-14.867 -6.724,0 0,14.867 z"
+         id="path142" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath108-9">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 110.871,634.697 3.794,0 0,-8.19 -3.794,0 0,8.19 z"
+         id="path110-6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath124-3">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 113.21,631.345 3.794,0 0,-8.19 -3.794,0 0,8.19 z"
+         id="path126-0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath140-7">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 110.871,636.163 6.724,0 0,-14.867 -6.724,0 0,14.867 z"
+         id="path142-9" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="653.48704"
+     inkscape:cy="370.51669"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="710"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3002">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 0"
+     style="display:inline">
+    <g
+       transform="translate(15.264004,-381.1399)"
+       id="g3160-7-0"
+       inkscape:label="mouse"
+       style="opacity:0;display:inline">
+      <path
+         inkscape:label="leftKey"
+         style="fill:#020202"
+         inkscape:connector-curvature="0"
+         d="m 851.16336,969.2033 v -6.47205 c -2.66977,-1.10132 -4.52733,-3.54063 -4.52733,-6.37515 v -12.03764 c 0,-2.83453 1.85738,-5.27383 4.52733,-6.37515 v -12.76093 h -3.01149 c -12.71859,0 -23.02905,9.97778 -23.02905,22.2861 v 21.73482 h 26.04054 z"
+         id="path4172-0-0" />
+      <path
+         id="path4164-3-4"
+         d="m 859.40068,954.5887 c 0,2.78828 -2.26039,5.04868 -5.04868,5.04868 l 0,0 c -2.78829,0 -5.04868,-2.2604 -5.04868,-5.04868 v -8.68019 c 0,-2.78828 2.26039,-5.04867 5.04868,-5.04867 l 0,0 c 2.78829,0 5.04868,2.26039 5.04868,5.04867 v 8.68019 z"
+         inkscape:connector-curvature="0"
+         style="fill:#020202" />
+      <path
+         style="fill:#020202"
+         inkscape:connector-curvature="0"
+         d="m 857.54064,937.94312 c 2.66978,1.10132 4.52734,3.54063 4.52734,6.37515 v 12.03764 c 0,2.83452 -1.85739,5.27383 -4.52734,6.37515 v 6.47223 h 26.04055 v -21.73482 c 0,-12.30832 -10.31047,-22.2861 -23.02906,-22.2861 h -3.01149 v 12.76075 z"
+         id="path4168-7-1" />
+      <path
+         style="fill:#020202"
+         inkscape:connector-curvature="0"
+         d="m 825.12282,971.06334 v 16.86311 c 0,12.30845 10.31046,22.28625 23.02905,22.28625 h 12.40026 c 12.71859,0 23.02906,-9.9778 23.02906,-22.28625 v -16.86311 h -58.45837 z"
+         id="path4170-4-3" />
+    </g>
+    <g
+       transform="translate(15.279704,-381.13716)"
+       id="g3160-7"
+       inkscape:label="mouse"
+       style="opacity:0;display:inline">
+      <path
+         inkscape:label="leftKey"
+         style="fill:#020202"
+         inkscape:connector-curvature="0"
+         d="m 851.16336,969.2033 v -6.47205 c -2.66977,-1.10132 -4.52733,-3.54063 -4.52733,-6.37515 v -12.03764 c 0,-2.83453 1.85738,-5.27383 4.52733,-6.37515 v -12.76093 h -3.01149 c -12.71859,0 -23.02905,9.97778 -23.02905,22.2861 v 21.73482 h 26.04054 z"
+         id="path4172-0" />
+      <path
+         id="path4164-3"
+         d="m 859.40068,954.5887 c 0,2.78828 -2.26039,5.04868 -5.04868,5.04868 l 0,0 c -2.78829,0 -5.04868,-2.2604 -5.04868,-5.04868 v -8.68019 c 0,-2.78828 2.26039,-5.04867 5.04868,-5.04867 l 0,0 c 2.78829,0 5.04868,2.26039 5.04868,5.04867 v 8.68019 z"
+         inkscape:connector-curvature="0"
+         style="fill:#020202" />
+      <path
+         style="fill:#020202"
+         inkscape:connector-curvature="0"
+         d="m 857.54064,937.94312 c 2.66978,1.10132 4.52734,3.54063 4.52734,6.37515 v 12.03764 c 0,2.83452 -1.85739,5.27383 -4.52734,6.37515 v 6.47223 h 26.04055 v -21.73482 c 0,-12.30832 -10.31047,-22.2861 -23.02906,-22.2861 h -3.01149 v 12.76075 z"
+         id="path4168-7" />
+      <path
+         style="fill:#020202"
+         inkscape:connector-curvature="0"
+         d="m 825.12282,971.06334 v 16.86311 c 0,12.30845 10.31046,22.28625 23.02905,22.28625 h 12.40026 c 12.71859,0 23.02906,-9.9778 23.02906,-22.28625 v -16.86311 h -58.45837 z"
+         id="path4170-4" />
+    </g>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-390.36218)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="351.89453"
+       y="442.73941"
+       id="text3015"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3017"
+         x="351.89453"
+         y="442.73941"
+         style="font-size:24px">Функция Эйлера <tspan
+   style="font-style:italic;-inkscape-font-specification:Arial Italic"
+   id="tspan3048">φ</tspan>(<tspan
+   style="font-style:italic;-inkscape-font-specification:Arial Italic"
+   id="tspan3050">n</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="108.80568"
+       y="592.12939"
+       id="text3044"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="108.80568"
+         y="592.12939"
+         id="tspan3058">Функция Эйлера от числа <tspan
+   style="font-style:italic;text-align:start;text-anchor:start;-inkscape-font-specification:Arial Italic"
+   id="tspan3056">n</tspan> равна количеству натуральных чисел, меньших <tspan
+   style="font-style:italic;text-align:start;text-anchor:start;-inkscape-font-specification:Arial Italic"
+   id="tspan3060">n</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="108.80568"
+         y="617.12939"
+         id="tspan3085">и взаимно простых с ним.</tspan><tspan
+         sodipodi:role="line"
+         x="108.80568"
+         y="642.12939"
+         id="tspan3069" /><tspan
+         sodipodi:role="line"
+         x="108.80568"
+         y="667.12939"
+         id="tspan3071">Обозначается как <tspan
+   style="font-style:italic;text-align:start;text-anchor:start;-inkscape-font-specification:Arial Italic"
+   id="tspan3073">φ</tspan>(<tspan
+   style="font-style:italic;text-align:start;text-anchor:start;-inkscape-font-specification:Arial Italic"
+   id="tspan3075">n</tspan>).</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 2"
+     style="display:none">
+    <text
+       transform="translate(0,-390.36218)"
+       sodipodi:linespacing="125%"
+       id="text3155"
+       y="442.73941"
+       x="351.89453"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         style="font-size:24px"
+         y="442.73941"
+         x="351.89453"
+         id="tspan3157"
+         sodipodi:role="line">Функция Эйлера <tspan
+   id="tspan3159"
+   style="font-style:italic;-inkscape-font-specification:Arial Italic">φ</tspan>(<tspan
+   id="tspan3161"
+   style="font-style:italic;-inkscape-font-specification:Arial Italic">n</tspan>)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3171"
+       y="592.12939"
+       x="108.80568"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       transform="translate(0,-390.36218)"><tspan
+         y="592.12939"
+         x="108.80568"
+         sodipodi:role="line"
+         id="tspan3231"><tspan
+           id="tspan3185"
+           style="font-style:italic;text-align:start;text-anchor:start;-inkscape-font-specification:Arial Italic">Примеры.</tspan></tspan><tspan
+         y="617.12939"
+         x="108.80568"
+         sodipodi:role="line"
+         id="tspan3294" /><tspan
+         y="642.12939"
+         x="108.80568"
+         sodipodi:role="line"
+         id="tspan3266">1. <tspan
+   style="font-style:italic;text-align:start;text-anchor:start;-inkscape-font-specification:Arial Italic"
+   id="tspan3268">φ</tspan>(8) = 4, так как существует только <tspan
+   style="font-weight:bold;-inkscape-font-specification:Arial Bold"
+   id="tspan3101">четыре</tspan> натуральных числа, меньших 8</tspan><tspan
+         y="667.12939"
+         x="108.80568"
+         sodipodi:role="line"
+         id="tspan3272">    и взаимно простых с ним. Это 1, 3, 5 и 7.</tspan><tspan
+         y="692.12939"
+         x="108.80568"
+         sodipodi:role="line"
+         id="tspan3290" /><tspan
+         y="717.12939"
+         x="108.80568"
+         sodipodi:role="line"
+         id="tspan3274">2. <tspan
+   style="font-style:italic;-inkscape-font-specification:Arial Italic"
+   id="tspan3278">φ</tspan>(14) = 6 – число 14 имеет <tspan
+   style="font-weight:bold;-inkscape-font-specification:Arial Bold"
+   id="tspan3103">шесть</tspan> взаимно простых с ним чисел, меньших 14. </tspan><tspan
+         y="742.12939"
+         x="108.80568"
+         sodipodi:role="line"
+         id="tspan3099">    Это 1, 3, 5, 9, 11, 13.</tspan><tspan
+         y="767.12939"
+         x="108.80568"
+         sodipodi:role="line"
+         id="tspan3292" /><tspan
+         y="792.12939"
+         x="108.80568"
+         sodipodi:role="line"
+         id="tspan3280">3. <tspan
+   style="font-style:italic;-inkscape-font-specification:Arial Italic"
+   id="tspan3288">φ</tspan>(22) = 10 – число 22 имеет <tspan
+   style="font-weight:bold;-inkscape-font-specification:Arial Bold"
+   id="tspan3105">десять</tspan> взаимно простых с ним чисел, меньших 22. </tspan><tspan
+         y="817.12939"
+         x="108.80568"
+         sodipodi:role="line"
+         id="tspan3097">    Это числа 1, 3, 5, 7, 9, 13, 15, 17, 19, 21.</tspan><tspan
+         y="842.12939"
+         x="108.80568"
+         sodipodi:role="line"
+         id="tspan3276" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="132.85715"
+       y="306.28571"
+       id="text3284"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3286"
+         x="132.85715"
+         y="306.28571" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Layer 3"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="351.89453"
+       y="442.73941"
+       id="text3321"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-390.36218)"><tspan
+         sodipodi:role="line"
+         id="tspan3323"
+         x="351.89453"
+         y="442.73941"
+         style="font-size:24px">Функция Эйлера <tspan
+   style="font-style:italic;-inkscape-font-specification:Arial Italic"
+   id="tspan3325">φ</tspan>(<tspan
+   style="font-style:italic;-inkscape-font-specification:Arial Italic"
+   id="tspan3327">n</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="325.09473"
+       y="201.76721"
+       id="text3329"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3355"
+         sodipodi:role="line"
+         x="325.09473"
+         y="201.76721"
+         style="font-style:italic;text-align:start;text-anchor:start;-inkscape-font-specification:Arial Italic">Свойства функции Эйлера.</tspan><tspan
+         sodipodi:role="line"
+         x="325.09473"
+         y="226.76721"
+         style="font-style:italic;text-align:start;text-anchor:start;-inkscape-font-specification:Arial Italic"
+         id="tspan3408" /><tspan
+         sodipodi:role="line"
+         x="325.09473"
+         y="251.76721"
+         style="font-style:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Arial"
+         id="tspan3410">1. <tspan
+   style="font-style:italic;-inkscape-font-specification:Arial Italic"
+   id="tspan3412">φ</tspan>(<tspan
+   style="font-style:italic;-inkscape-font-specification:Arial Italic"
+   id="tspan3416">p</tspan>) = <tspan
+   style="font-style:italic;-inkscape-font-specification:Arial Italic"
+   id="tspan3418">p</tspan> - 1, если <tspan
+   style="font-style:italic;-inkscape-font-specification:Arial Italic"
+   id="tspan3420">p</tspan> - простое.</tspan><tspan
+         sodipodi:role="line"
+         x="325.09473"
+         y="276.76721"
+         style="font-style:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Arial"
+         id="tspan3422" /><tspan
+         sodipodi:role="line"
+         x="325.09473"
+         y="301.76721"
+         style="font-style:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Arial"
+         id="tspan3424">2. <tspan
+   style="font-style:italic;-inkscape-font-specification:Arial Italic"
+   id="tspan3428">φ</tspan>(<tspan
+   style="font-style:italic;-inkscape-font-specification:Arial Italic"
+   id="tspan3426">m · n</tspan>) = <tspan
+   style="font-style:italic;-inkscape-font-specification:Arial Italic"
+   id="tspan3434">φ</tspan>(<tspan
+   style="font-style:italic;-inkscape-font-specification:Arial Italic"
+   id="tspan3430">m</tspan>) · <tspan
+   style="font-style:italic;-inkscape-font-specification:Arial Italic"
+   id="tspan3436">φ</tspan>(<tspan
+   style="font-style:italic;-inkscape-font-specification:Arial Italic"
+   id="tspan3432">n</tspan>).</tspan></text>
+  </g>
+</svg>

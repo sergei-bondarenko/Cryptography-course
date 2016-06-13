@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="941"
+   height="662"
+   id="svg2997"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="1.svg">
+  <defs
+     id="defs2999">
+    <linearGradient
+       y2="737.01562"
+       x2="470.00089"
+       y1="737.01562"
+       x1="175.71875"
+       gradientTransform="matrix(0.471308,0,0,0.471308,118.8781,123.5182)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient13633"
+       xlink:href="#linearGradient12001"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient12001">
+      <stop
+         id="stop12003"
+         offset="0"
+         style="stop-color:#1b4a78;stop-opacity:1;" />
+      <stop
+         id="stop12005"
+         offset="1"
+         style="stop-color:#5dacd1;stop-opacity:1;" />
+    </linearGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.177184,-1.31839e-15,495.9268)"
+       r="147.14285"
+       fy="602.7193"
+       fx="328.57144"
+       cy="602.7193"
+       cx="328.57144"
+       id="radialGradient13651"
+       xlink:href="#linearGradient12828"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient12828">
+      <stop
+         style="stop-color:#484849;stop-opacity:1;"
+         offset="0"
+         id="stop12830" />
+      <stop
+         id="stop12862"
+         offset="0"
+         style="stop-color:#434344;stop-opacity:1;" />
+      <stop
+         style="stop-color:#8f8f90;stop-opacity:0.0000000;"
+         offset="1.0000000"
+         id="stop12832" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12828-2">
+      <stop
+         style="stop-color:#484849;stop-opacity:1;"
+         offset="0"
+         id="stop12830-7" />
+      <stop
+         id="stop12862-8"
+         offset="0"
+         style="stop-color:#434344;stop-opacity:1;" />
+      <stop
+         style="stop-color:#8f8f90;stop-opacity:0.0000000;"
+         offset="1.0000000"
+         id="stop12832-1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12001-1">
+      <stop
+         id="stop12003-5"
+         offset="0"
+         style="stop-color:#1b4a78;stop-opacity:1;" />
+      <stop
+         id="stop12005-1"
+         offset="1"
+         style="stop-color:#5dacd1;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12828-0">
+      <stop
+         style="stop-color:#484849;stop-opacity:1;"
+         offset="0"
+         id="stop12830-4" />
+      <stop
+         id="stop12862-82"
+         offset="0"
+         style="stop-color:#434344;stop-opacity:1;" />
+      <stop
+         style="stop-color:#8f8f90;stop-opacity:0.0000000;"
+         offset="1.0000000"
+         id="stop12832-9" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12001-8">
+      <stop
+         id="stop12003-9"
+         offset="0"
+         style="stop-color:#1b4a78;stop-opacity:1;" />
+      <stop
+         id="stop12005-3"
+         offset="1"
+         style="stop-color:#5dacd1;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12828-03">
+      <stop
+         style="stop-color:#484849;stop-opacity:1;"
+         offset="0"
+         id="stop12830-3" />
+      <stop
+         id="stop12862-5"
+         offset="0"
+         style="stop-color:#434344;stop-opacity:1;" />
+      <stop
+         style="stop-color:#8f8f90;stop-opacity:0.0000000;"
+         offset="1.0000000"
+         id="stop12832-8" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12001-6">
+      <stop
+         id="stop12003-8"
+         offset="0"
+         style="stop-color:#1b4a78;stop-opacity:1;" />
+      <stop
+         id="stop12005-4"
+         offset="1"
+         style="stop-color:#5dacd1;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12828-8">
+      <stop
+         style="stop-color:#484849;stop-opacity:1;"
+         offset="0"
+         id="stop12830-9" />
+      <stop
+         id="stop12862-2"
+         offset="0"
+         style="stop-color:#434344;stop-opacity:1;" />
+      <stop
+         style="stop-color:#8f8f90;stop-opacity:0.0000000;"
+         offset="1.0000000"
+         id="stop12832-0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12001-9">
+      <stop
+         id="stop12003-59"
+         offset="0"
+         style="stop-color:#1b4a78;stop-opacity:1;" />
+      <stop
+         id="stop12005-0"
+         offset="1"
+         style="stop-color:#5dacd1;stop-opacity:1;" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath108">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 110.871,634.697 3.794,0 0,-8.19 -3.794,0 0,8.19 z"
+         id="path110" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath124">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 113.21,631.345 3.794,0 0,-8.19 -3.794,0 0,8.19 z"
+         id="path126" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath140">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 110.871,636.163 6.724,0 0,-14.867 -6.724,0 0,14.867 z"
+         id="path142" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath108-9">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 110.871,634.697 3.794,0 0,-8.19 -3.794,0 0,8.19 z"
+         id="path110-6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath124-3">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 113.21,631.345 3.794,0 0,-8.19 -3.794,0 0,8.19 z"
+         id="path126-0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath140-7">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 110.871,636.163 6.724,0 0,-14.867 -6.724,0 0,14.867 z"
+         id="path142-9" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994951"
+     inkscape:cx="269.27317"
+     inkscape:cy="389.47658"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="710"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3002">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 0">
+    <g
+       transform="translate(29.925849,-367.12747)"
+       id="g3160-7-0"
+       inkscape:label="mouse"
+       style="opacity:0;display:inline">
+      <path
+         inkscape:label="leftKey"
+         style="fill:#020202"
+         inkscape:connector-curvature="0"
+         d="m 851.16336,969.2033 v -6.47205 c -2.66977,-1.10132 -4.52733,-3.54063 -4.52733,-6.37515 v -12.03764 c 0,-2.83453 1.85738,-5.27383 4.52733,-6.37515 v -12.76093 h -3.01149 c -12.71859,0 -23.02905,9.97778 -23.02905,22.2861 v 21.73482 h 26.04054 z"
+         id="path4172-0-0" />
+      <path
+         id="path4164-3-4"
+         d="m 859.40068,954.5887 c 0,2.78828 -2.26039,5.04868 -5.04868,5.04868 l 0,0 c -2.78829,0 -5.04868,-2.2604 -5.04868,-5.04868 v -8.68019 c 0,-2.78828 2.26039,-5.04867 5.04868,-5.04867 l 0,0 c 2.78829,0 5.04868,2.26039 5.04868,5.04867 v 8.68019 z"
+         inkscape:connector-curvature="0"
+         style="fill:#020202" />
+      <path
+         style="fill:#020202"
+         inkscape:connector-curvature="0"
+         d="m 857.54064,937.94312 c 2.66978,1.10132 4.52734,3.54063 4.52734,6.37515 v 12.03764 c 0,2.83452 -1.85739,5.27383 -4.52734,6.37515 v 6.47223 h 26.04055 v -21.73482 c 0,-12.30832 -10.31047,-22.2861 -23.02906,-22.2861 h -3.01149 v 12.76075 z"
+         id="path4168-7-1" />
+      <path
+         style="fill:#020202"
+         inkscape:connector-curvature="0"
+         d="m 825.12282,971.06334 v 16.86311 c 0,12.30845 10.31046,22.28625 23.02905,22.28625 h 12.40026 c 12.71859,0 23.02906,-9.9778 23.02906,-22.28625 v -16.86311 h -58.45837 z"
+         id="path4170-4-3" />
+    </g>
+    <g
+       transform="translate(29.941549,-367.12473)"
+       id="g3160-7"
+       inkscape:label="mouse"
+       style="opacity:0;display:inline">
+      <path
+         inkscape:label="leftKey"
+         style="fill:#020202"
+         inkscape:connector-curvature="0"
+         d="m 851.16336,969.2033 v -6.47205 c -2.66977,-1.10132 -4.52733,-3.54063 -4.52733,-6.37515 v -12.03764 c 0,-2.83453 1.85738,-5.27383 4.52733,-6.37515 v -12.76093 h -3.01149 c -12.71859,0 -23.02905,9.97778 -23.02905,22.2861 v 21.73482 h 26.04054 z"
+         id="path4172-0" />
+      <path
+         id="path4164-3"
+         d="m 859.40068,954.5887 c 0,2.78828 -2.26039,5.04868 -5.04868,5.04868 l 0,0 c -2.78829,0 -5.04868,-2.2604 -5.04868,-5.04868 v -8.68019 c 0,-2.78828 2.26039,-5.04867 5.04868,-5.04867 l 0,0 c 2.78829,0 5.04868,2.26039 5.04868,5.04867 v 8.68019 z"
+         inkscape:connector-curvature="0"
+         style="fill:#020202" />
+      <path
+         style="fill:#020202"
+         inkscape:connector-curvature="0"
+         d="m 857.54064,937.94312 c 2.66978,1.10132 4.52734,3.54063 4.52734,6.37515 v 12.03764 c 0,2.83452 -1.85739,5.27383 -4.52734,6.37515 v 6.47223 h 26.04055 v -21.73482 c 0,-12.30832 -10.31047,-22.2861 -23.02906,-22.2861 h -3.01149 v 12.76075 z"
+         id="path4168-7" />
+      <path
+         style="fill:#020202"
+         inkscape:connector-curvature="0"
+         d="m 825.12282,971.06334 v 16.86311 c 0,12.30845 10.31046,22.28625 23.02905,22.28625 h 12.40026 c 12.71859,0 23.02906,-9.9778 23.02906,-22.28625 v -16.86311 h -58.45837 z"
+         id="path4170-4" />
+    </g>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-390.36218)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="335.69922"
+       y="442.73941"
+       id="text3015"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3017"
+         x="335.69922"
+         y="442.73941"
+         style="font-size:24px">Взаимно простые числа</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:150%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="471.07617"
+       y="558.07648"
+       id="text3295"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         id="tspan3297"
+         x="471.07617"
+         y="558.07648">21 и 50 взаимно простые, так как не имеют общих простых делителей:</tspan><tspan
+         sodipodi:role="line"
+         x="471.07617"
+         y="588.07648"
+         id="tspan3299">21 = 3 · 7</tspan><tspan
+         sodipodi:role="line"
+         x="471.07617"
+         y="618.07648"
+         id="tspan3301">50 = 2 · 5 · 5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:150%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="471.07617"
+       y="748.14062"
+       id="text3295-8"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         id="tspan3297-0"
+         x="471.07617"
+         y="748.14062">21 и 56 НЕ взаимно простые, так как имеют общий простой делитель 7:</tspan><tspan
+         sodipodi:role="line"
+         x="471.07617"
+         y="778.14062"
+         id="tspan3299-7">21 = 3 · 7</tspan><tspan
+         sodipodi:role="line"
+         x="471.07617"
+         y="808.14062"
+         id="tspan3301-2">56 = 2 · 2 · 2 · 7</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:none">
+    <g
+       style="display:inline"
+       id="chkbox4"
+       transform="translate(21.129433,157.36887)"
+       class="checkbox">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3059-8"
+         y="211.20251"
+         x="136.5932"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="211.20251"
+           x="136.5932"
+           id="answer4"
+           sodipodi:role="line">ХХ</tspan></text>
+      <rect
+         y="198.86873"
+         x="116.30166"
+         height="10.351171"
+         width="10.968989"
+         id="rect3111-5"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         style="fill:#ffffff;fill-opacity:0;stroke:none"
+         id="rect3976-5"
+         width="53.214287"
+         height="20.178572"
+         x="134.28571"
+         y="194.14287"
+         transform="translate(-21.129433,0)" />
+      <path
+         d="m 123.57364,204.04719 2.13809,2.13809 -1.78749,1.78749 -2.13809,-2.13809 -2.13809,2.13809 -1.78749,-1.78749 2.13809,-2.13809 -2.13809,-2.13809 1.78749,-1.78749 2.13809,2.13809 2.13809,-2.14384 1.78749,1.78749 -2.13809,2.14384"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;opacity:0;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+         id="checkbox4"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       transform="translate(0,-390.36218)"
+       sodipodi:linespacing="125%"
+       id="text3331"
+       y="442.73941"
+       x="335.69922"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         style="font-size:24px"
+         y="442.73941"
+         x="335.69922"
+         id="tspan3333"
+         sodipodi:role="line">Взаимно простые числа</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="135.71429"
+       y="167.71426"
+       id="678658"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="puzzle"
+         x="135.71429"
+         y="167.71426">Определите, какие из предложенных чисел взаимно простые с числом ХХ:</tspan></text>
+    <g
+       id="chkbox0"
+       transform="translate(21.129433,0)"
+       class="checkbox">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3059"
+         y="211.20251"
+         x="136.5932"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="211.20251"
+           x="136.5932"
+           id="answer0"
+           sodipodi:role="line">ХХ</tspan></text>
+      <rect
+         y="198.86873"
+         x="116.30166"
+         height="10.351171"
+         width="10.968989"
+         id="rect3111"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         style="fill:#ffffff;fill-opacity:0;stroke:none"
+         id="rect3976"
+         width="53.214287"
+         height="20.178572"
+         x="134.28571"
+         y="194.14287"
+         transform="translate(-21.129433,0)" />
+      <path
+         d="m 123.57364,204.04719 2.13809,2.13809 -1.78749,1.78749 -2.13809,-2.13809 -2.13809,2.13809 -1.78749,-1.78749 2.13809,-2.13809 -2.13809,-2.13809 1.78749,-1.78749 2.13809,2.13809 2.13809,-2.14384 1.78749,1.78749 -2.13809,2.14384"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;opacity:0;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+         id="checkbox0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="display:inline"
+       id="chkbox1"
+       transform="translate(21.129433,39.342212)"
+       class="checkbox">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3059-0"
+         y="211.20251"
+         x="136.5932"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="211.20251"
+           x="136.5932"
+           id="answer1"
+           sodipodi:role="line">ХХ</tspan></text>
+      <rect
+         y="198.86873"
+         x="116.30166"
+         height="10.351171"
+         width="10.968989"
+         id="rect3111-0"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         style="fill:#ffffff;fill-opacity:0;stroke:none"
+         id="rect3976-2"
+         width="53.214287"
+         height="20.178572"
+         x="134.28571"
+         y="194.14287"
+         transform="translate(-21.129433,0)" />
+      <path
+         d="m 123.57364,204.04719 2.13809,2.13809 -1.78749,1.78749 -2.13809,-2.13809 -2.13809,2.13809 -1.78749,-1.78749 2.13809,-2.13809 -2.13809,-2.13809 1.78749,-1.78749 2.13809,2.13809 2.13809,-2.14384 1.78749,1.78749 -2.13809,2.14384"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;opacity:0;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+         id="checkbox1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="display:inline"
+       id="chkbox2"
+       transform="translate(21.129433,78.68442)"
+       class="checkbox">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3059-1"
+         y="211.20251"
+         x="136.5932"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="211.20251"
+           x="136.5932"
+           id="answer2"
+           sodipodi:role="line">ХХ</tspan></text>
+      <rect
+         y="198.86873"
+         x="116.30166"
+         height="10.351171"
+         width="10.968989"
+         id="rect3111-3"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         style="fill:#ffffff;fill-opacity:0;stroke:none"
+         id="rect3976-21"
+         width="53.214287"
+         height="20.178572"
+         x="134.28571"
+         y="194.14287"
+         transform="translate(-21.129433,0)" />
+      <path
+         d="m 123.57364,204.04719 2.13809,2.13809 -1.78749,1.78749 -2.13809,-2.13809 -2.13809,2.13809 -1.78749,-1.78749 2.13809,-2.13809 -2.13809,-2.13809 1.78749,-1.78749 2.13809,2.13809 2.13809,-2.14384 1.78749,1.78749 -2.13809,2.14384"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;opacity:0;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+         id="checkbox2"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="display:inline"
+       id="chkbox3"
+       transform="translate(21.129433,118.02663)"
+       class="checkbox">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3059-16"
+         y="211.20251"
+         x="136.5932"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="211.20251"
+           x="136.5932"
+           id="answer3"
+           sodipodi:role="line">ХХ</tspan></text>
+      <rect
+         y="198.86873"
+         x="116.30166"
+         height="10.351171"
+         width="10.968989"
+         id="rect3111-9"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         style="fill:#ffffff;fill-opacity:0;stroke:none"
+         id="rect3976-7"
+         width="53.214287"
+         height="20.178572"
+         x="134.28571"
+         y="194.14287"
+         transform="translate(-21.129433,0)" />
+      <path
+         d="m 123.57364,204.04719 2.13809,2.13809 -1.78749,1.78749 -2.13809,-2.13809 -2.13809,2.13809 -1.78749,-1.78749 2.13809,-2.13809 -2.13809,-2.13809 1.78749,-1.78749 2.13809,2.13809 2.13809,-2.14384 1.78749,1.78749 -2.13809,2.14384"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;opacity:0;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+         id="checkbox3"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

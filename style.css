@@ -1,0 +1,114 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-color: #ffffff;
+  height: 100%;
+  margin: 0;
+}
+
+h2 {
+  font-family: Tahoma, Geneva, sans-serif;
+  text-align: left;
+  margin-bottom: 0.5em;
+	margin-top: 0;
+}
+
+a {     /* ссылки */
+  margin-top: 0;
+  margin-bottom: 0;
+  cursor: pointer;
+  color: #000099;
+	font-family: "Courier New", Courier, monospace;
+	text-decoration: none;	/* убираем подчёркивание */
+}
+
+a:hover {      /* ссылки меняют цвет при наведении курсора */
+  color: #66CCFF;
+}
+
+p {    /* текст в #textbox */
+  font-family: Tahoma, Geneva, sans-serif;
+  margin-top: 0em;   /* убираем отступ перед */
+}
+
+tspan {   /* любой текст на svg */
+  cursor: default;    /* над ним курсор будет иметь вид обычной "стрелочки", а не "палочки" */
+  -webkit-user-select: none;   /* запрещаем выделение текста в Chrome/Safari/Opera */
+  -moz-user-select: none;      /* в Firefox */
+  -ms-user-select: none;       /* в IE/Edge */
+}
+
+span.normal {	/* встречается в тестах */
+	margin-top: 10px;
+	font-family: Tahoma, Geneva, sans-serif;
+	display: block;		/* чтобы работал margin-top */
+}
+
+span.mono {	/* встречается в тестах */
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-family: monospace;
+	display: block;		/* чтобы работал margin-top */
+}
+
+.checkbox { /* чекбоксы на svg */
+  cursor: pointer;  /* курсор в виде руки */
+}
+
+#contentsbox {        /* блок с содержанием курса на стартовой странице */
+  font-family: "Courier New", Courier, monospace;
+  margin-left: auto;  /* устанавливаем его по центру */
+  margin-right: auto;
+  padding: 8px;
+  width: 400px;
+  box-sizing: border-box;  /* включать границы в размер блока */
+}
+
+#testsbox {        /* блок с тестовыми заданиями */
+  margin-left: auto;  /* устанавливаем его по центру */
+  margin-right: auto;
+  padding: 8px;
+  width: 800px;
+  box-sizing: border-box;  /* включать границы в размер блока */
+}
+
+#page {  /*содержит #drawbox, #menubox и #textbox или #contentsbox или #testsbox*/
+  height: 100%;
+  padding: 8px;
+  box-sizing: border-box;  /* включать границы в размер блока */
+}
+
+#drawbox {        /* блок, в котором рисуется анимация, блок-схемы и т.д. */
+  box-sizing: border-box;  /* включать границы в размер блока */
+  height: 100%;
+  width: 70%;
+  border: 2px solid navy;
+  margin-right: 8px; /* отступ между #drawbox и #textbox*/
+  float: left;
+}
+
+#textbox {    /* блок, в котором приводятся текстовые пояснения к рисункам */
+  box-sizing: border-box;  /* включать границы в размер блока */
+  height: 90%;
+  width: auto;
+  border: 2px solid navy;
+  padding: 8px;
+  margin-bottom: 8px;
+  overflow: auto; /* добавляем полосу прокрутки, если текст не влазит в блок */
+}
+
+#menubox {
+  box-sizing: border-box;  /* включать границы в размер блока */
+  height: calc(10% - 8px);
+  width: auto;
+  overflow: hidden;
+}
+
+#preloadImages {
+  position: absolute;
+  top: 45%;
+  left: 40%;
+  font-family: "Courier New", Courier, monospace;
+}
